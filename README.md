@@ -1,5 +1,5 @@
 # Time-Series
-北京林业大学统计学zx老师【时间序列分析】课程作业
+北京林业大学统计学zx老师【时间序列分析】课程作业与论文源码
 ## 第三次作业
 ARMA平稳序列建模--ts3_220403102.py
 ## 第四次作业
@@ -23,5 +23,5 @@ VARMAX--ts10_220403102.ipynb
 ## 第十一次作业
 CNN-BiLSTM-Attention与CNN-BiGRU-Attention--ts11_220403102.ipynb
 ## 课程论文
-《基于时间序列模型的广州碳交易权K线价格预测》  
+《基于时间序列模型的广州碳交易权K线价格预测》--tsa1_220403102.ipynb与tsa2_220403102.ipynb    
 综合使用了ARIMA、残差AR、残差EGARCH、VARMA以及神经网络
