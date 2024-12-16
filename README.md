@@ -22,3 +22,6 @@ HP滤波+傅立叶变换--ts9_220403102.ipynb
 VARMAX--ts10_220403102.ipynb
 ## 第十一次作业
 CNN-BiLSTM-Attention与CNN-BiGRU-Attention--ts11_220403102.ipynb
+## 课程论文
+《基于时间序列模型的广州碳交易权K线价格预测》  
+综合使用了ARIMA、残差AR、残差EGARCH、VARMA以及神经网络
